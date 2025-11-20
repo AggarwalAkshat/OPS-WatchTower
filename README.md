@@ -11,8 +11,6 @@ The report ingests public crime statistics and justice system data (StatsCan) in
 - report/ – Power BI report (.pbix), PDF export, and PowerPoint export
 - screenshots/ – per-page screenshots used in documentation and portfolio
 - design/ – team logo assets for The OPS WatchTower
-- data/ – (optional) public sample CSVs / links to StatsCan datasets
-- docs/measures.md – key DAX measures and modelling notes
 
 ---
 
